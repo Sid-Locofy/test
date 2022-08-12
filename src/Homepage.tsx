@@ -279,7 +279,7 @@ export const Homepage: FunctionComponent = () => {
                       <img
                         className={styles.vectorIcon}
                         alt=""
-                        src="vector4.svg"
+                        src="vector.svg"
                       />
                     </div>
                     <div className={styles.attractionsDiv}>Commute</div>
@@ -290,7 +290,7 @@ export const Homepage: FunctionComponent = () => {
                       <img
                         className={styles.vectorIcon1}
                         alt=""
-                        src="vector5.svg"
+                        src="vector1.svg"
                       />
                     </div>
                     <div className={styles.taxiDiv}>Taxi</div>
@@ -301,7 +301,7 @@ export const Homepage: FunctionComponent = () => {
                       <img
                         className={styles.vectorIcon2}
                         alt=""
-                        src="vector6.svg"
+                        src="vector2.svg"
                       />
                     </div>
                     <div className={styles.attractionsDiv}>Movies</div>
@@ -533,7 +533,7 @@ export const Homepage: FunctionComponent = () => {
                       </b>
                       <div className={styles.nightDiv}>$575/night</div>
                     </div>
-                    <img className={styles.videoIcon} alt="" src="video2.svg" />
+                    <img className={styles.videoIcon} alt="" src="video.svg" />
                   </div>
                   <div className={styles.ratingDiv}>
                     <div className={styles.reviewsDiv}>(60 reviews)</div>
@@ -542,7 +542,7 @@ export const Homepage: FunctionComponent = () => {
                       <img
                         className={styles.vectorIcon3}
                         alt=""
-                        src="vector7.svg"
+                        src="vector3.svg"
                       />
                     </div>
                   </div>
@@ -576,7 +576,7 @@ export const Homepage: FunctionComponent = () => {
                       <img
                         className={styles.vectorIcon3}
                         alt=""
-                        src="vector8.svg"
+                        src="vector4.svg"
                       />
                     </div>
                   </div>
@@ -608,7 +608,7 @@ export const Homepage: FunctionComponent = () => {
                       <img
                         className={styles.vectorIcon5}
                         alt=""
-                        src="vector9.svg"
+                        src="vector5.svg"
                       />
                     </div>
                   </div>
@@ -632,7 +632,7 @@ export const Homepage: FunctionComponent = () => {
                       <b className={styles.arcticHutB}>Lake Louise Inn</b>
                       <div className={styles.nightDiv}>$244/night</div>
                     </div>
-                    <img className={styles.videoIcon} alt="" src="video3.svg" />
+                    <img className={styles.videoIcon} alt="" src="video1.svg" />
                   </div>
                   <div className={styles.ratingDiv}>
                     <div className={styles.reviewsDiv}>(63 reviews)</div>
@@ -641,7 +641,7 @@ export const Homepage: FunctionComponent = () => {
                       <img
                         className={styles.vectorIcon3}
                         alt=""
-                        src="vector10.svg"
+                        src="vector6.svg"
                       />
                     </div>
                   </div>
@@ -666,7 +666,7 @@ export const Homepage: FunctionComponent = () => {
             <img
               className={styles.rectangleIcon}
               alt=""
-              src="rectangle-1862@2x.png"
+              src="rectangle-186@2x.png"
             />
             <div className={styles.shareYourTravelsForm}>
               <div className={styles.formHeaderDiv}>
@@ -718,7 +718,7 @@ export const Homepage: FunctionComponent = () => {
               <img
                 className={styles.fickleflightLogoIcon}
                 alt=""
-                src="logo2.svg"
+                src="logo.svg"
               />
               <div className={styles.fickleFlightIsYourOneStop}>
                 Fickle Flight is your one-stop travel portal. We offer hassle
@@ -728,7 +728,7 @@ export const Homepage: FunctionComponent = () => {
               <img
                 className={styles.socialIcons}
                 alt=""
-                src="social-icons2.svg"
+                src="social-icons.svg"
               />
             </div>
             <div className={styles.lineDiv} />
