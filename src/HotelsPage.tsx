@@ -116,7 +116,7 @@ export const HotelsPage: FunctionComponent = () => {
                           <img
                             className={styles.vectorIcon}
                             alt=""
-                            src="vector.svg"
+                            src="vector7.svg"
                           />
                         </div>
                       </div>
@@ -124,7 +124,7 @@ export const HotelsPage: FunctionComponent = () => {
                     <img
                       className={styles.videoIcon}
                       alt=""
-                      src="video.svg"
+                      src="video2.svg"
                       onClick={openMatterhornPopup}
                     />
                   </div>
@@ -164,7 +164,7 @@ export const HotelsPage: FunctionComponent = () => {
                           <img
                             className={styles.vectorIcon}
                             alt=""
-                            src="vector1.svg"
+                            src="vector8.svg"
                           />
                         </div>
                       </div>
@@ -206,7 +206,7 @@ export const HotelsPage: FunctionComponent = () => {
                           <img
                             className={styles.vectorIcon}
                             alt=""
-                            src="vector2.svg"
+                            src="vector9.svg"
                           />
                         </div>
                       </div>
@@ -246,12 +246,12 @@ export const HotelsPage: FunctionComponent = () => {
                           <img
                             className={styles.vectorIcon}
                             alt=""
-                            src="vector3.svg"
+                            src="vector10.svg"
                           />
                         </div>
                       </div>
                     </div>
-                    <img className={styles.bellIcon} alt="" src="video1.svg" />
+                    <img className={styles.bellIcon} alt="" src="video3.svg" />
                   </div>
                   <div className={styles.groupDiv2}>
                     <div className={styles.groupDiv3}>
@@ -276,7 +276,7 @@ export const HotelsPage: FunctionComponent = () => {
             <img
               className={styles.rectangleIcon}
               alt=""
-              src="rectangle-186@2x.png"
+              src="rectangle-1861@2x.png"
             />
             <div className={styles.shareYourTravelsForm}>
               <div className={styles.formHeaderDiv}>
@@ -325,7 +325,7 @@ export const HotelsPage: FunctionComponent = () => {
           </div>
           <footer className={styles.footer}>
             <div className={styles.fickleFlightBioDiv}>
-              <img className={styles.logoIcon} alt="" src="logo.svg" />
+              <img className={styles.logoIcon} alt="" src="logo1.svg" />
               <div className={styles.fickleFlightIsYourOneStop}>
                 Fickle Flight is your one-stop travel portal. We offer hassle
                 free flight and hotel bookings. We also have all your flight
@@ -334,7 +334,7 @@ export const HotelsPage: FunctionComponent = () => {
               <img
                 className={styles.socialIcons}
                 alt=""
-                src="social-icons.svg"
+                src="social-icons1.svg"
               />
             </div>
             <div className={styles.lineDiv} />
