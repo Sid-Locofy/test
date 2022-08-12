@@ -1,0 +1,1330 @@
+.symbolsIcon {
+  position: absolute;
+  height: 96.97%;
+  width: 99.82%;
+  top: 1.59%;
+  right: 0.18%;
+  bottom: 1.44%;
+  left: 0;
+  max-width: 100%;
+  max-height: 100%;
+}
+.webLogo1Button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: relative;
+  width: 174px;
+  height: 33px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.exploreDiv {
+  color: #1262af;
+}
+.exploreDiv,
+.searchDiv {
+  position: relative;
+  display: inline-block;
+}
+.frameDiv1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 30px;
+}
+.hamburgerMenuIcon {
+  display: none;
+}
+.bellIcon,
+.hamburgerMenuIcon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.unsplashd1UPkiFd04AIcon {
+  border-radius: 38px;
+  width: 36px;
+  height: 36px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.frameDiv2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+}
+.frameDiv {
+  justify-content: flex-end;
+  gap: 36px;
+}
+.frameDiv,
+.topContainerDiv,
+.topHeader {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.topContainerDiv {
+  flex: 1;
+  justify-content: space-between;
+}
+.topHeader {
+  align-self: stretch;
+  background-color: #fff;
+  height: 77px;
+  flex-shrink: 0;
+  padding: 22px 80px;
+  box-sizing: border-box;
+  justify-content: center;
+  text-align: left;
+  font-size: 14px;
+  color: #424242;
+  font-family: Roboto;
+}
+.rectangleDiv,
+.unsplashe8e4YY65sOkIcon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  right: 0;
+  left: 0;
+}
+.rectangleDiv {
+  top: 0;
+  bottom: 0;
+  background: linear-gradient(78.78deg, #114f8b 5.2%, #2a9ad7);
+}
+.unsplashe8e4YY65sOkIcon {
+  top: 0.4px;
+  bottom: -0.4px;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+}
+.whereAreYouOffToo {
+  align-self: stretch;
+  position: relative;
+  line-height: 67px;
+  display: inline-block;
+}
+.frameDiv5 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.searchFlightsB {
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.radioFormControlLabel {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.radioFormControlLabel1 {
+  position: absolute;
+  top: 0;
+  left: 106px;
+}
+.flightTypeDiv {
+  position: relative;
+  width: 216.53px;
+  height: 38px;
+  flex-shrink: 0;
+}
+.frameDiv7,
+.frameDiv8 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frameDiv7 {
+  overflow: hidden;
+  padding: 5px;
+  box-sizing: border-box;
+  gap: 5px;
+}
+.frameDiv7,
+.selectOutlinedAutocomplete {
+  align-self: stretch;
+}
+.frameDiv11 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  padding: 5px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.frameDiv10,
+.selectOutlinedDiv {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.selectOutlinedDiv {
+  align-self: stretch;
+  height: 56px;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.frameDiv10 {
+  flex: 1;
+  flex-direction: row;
+}
+.buttonDiv {
+  position: relative;
+  font-size: 15px;
+  letter-spacing: 0.46px;
+  line-height: 26px;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-family: Roboto;
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+  width: 146.98px;
+}
+.button,
+.frameDiv14 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  border-radius: 4px;
+  width: 164px;
+  height: 56px;
+  flex-shrink: 0;
+  overflow: hidden;
+  transition: 0.3s;
+}
+.button,
+.button:hover {
+  background-color: #f99a0e;
+}
+.frameDiv14 {
+  padding: 5px;
+  box-sizing: border-box;
+}
+.frameDiv9 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frameDiv4,
+.frameDiv6 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.frameDiv6 {
+  align-self: stretch;
+  border-radius: 10px;
+  background-color: #fff;
+  padding: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 4px;
+  font-size: 20px;
+  color: #303030;
+  font-family: Roboto;
+}
+.frameDiv4 {
+  position: absolute;
+  width: 100%;
+  top: calc(50% - 122.5px);
+  right: 0;
+  left: 0;
+  padding: 0 80px;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+.frameDiv3 {
+  align-self: stretch;
+  position: relative;
+  height: 362px;
+  flex-shrink: 0;
+}
+.searchFormSection {
+  align-self: stretch;
+  background: linear-gradient(100.3deg, #114f8b, #2a9ad7);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-family: Baloo Bhai;
+}
+.resultsDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.26px;
+  display: inline-block;
+}
+.vectorIcon {
+  position: absolute;
+  top: 46.5px;
+  left: 0;
+  width: 311.5px;
+  height: 1px;
+}
+.resultsB,
+.resultsSummaryDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.resultsSummaryDiv {
+  width: 311.5px;
+  height: 47px;
+  font-size: 20px;
+}
+.resultsB {
+  font-size: 22px;
+  letter-spacing: 0.26px;
+  display: inline-block;
+}
+.component1FormControlLabel {
+  position: relative;
+}
+.component1formcheckboxDiv,
+.component1formcheckboxDiv1 {
+  position: absolute;
+  top: 50px;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.component1formcheckboxDiv1 {
+  top: 86px;
+}
+.bookingOptionsDiv {
+  position: absolute;
+  top: 231.4px;
+  left: 0;
+  width: 221px;
+  height: 106px;
+}
+.resultsDiv3 {
+  position: relative;
+  letter-spacing: 0.26px;
+  display: inline-block;
+  width: 266.49px;
+  height: 20px;
+  flex-shrink: 0;
+}
+.rectangleDiv1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 3px;
+  background-color: #fff;
+  border: 1px solid #adb2b7;
+  box-sizing: border-box;
+}
+.component1Div,
+.resultsDiv4 {
+  position: relative;
+  flex-shrink: 0;
+}
+.component1Div {
+  width: 20px;
+  height: 20px;
+}
+.resultsDiv4 {
+  letter-spacing: 0.26px;
+  display: inline-block;
+  width: 274.8px;
+}
+.airlinesDiv,
+.flightExperienceDiv {
+  position: absolute;
+  top: 376.6px;
+  left: 0;
+  width: 310.8px;
+  height: 106px;
+}
+.airlinesDiv {
+  top: 561px;
+  width: 178px;
+}
+.component1formcheckboxDiv6 {
+  position: absolute;
+  top: 50px;
+  left: 0;
+}
+.resultsDiv8 {
+  position: relative;
+  letter-spacing: 0.26px;
+  display: inline-block;
+  width: 260.62px;
+  flex-shrink: 0;
+}
+.stopsDiv,
+.vectorIcon1 {
+  position: absolute;
+  top: 86.2px;
+  left: 0;
+  width: 296.62px;
+  height: 106px;
+}
+.vectorIcon1 {
+  top: 521.3px;
+  width: 311.5px;
+  height: 1px;
+}
+.searchFiltersDiv,
+.turkishIcon {
+  position: relative;
+  width: 311.5px;
+  height: 667px;
+  flex-shrink: 0;
+}
+.turkishIcon {
+  width: 34.77px;
+  height: 46px;
+}
+.singaporeAirlinesDiv {
+  position: relative;
+  letter-spacing: 0.26px;
+  display: inline-block;
+}
+.frameDiv15 {
+  width: 20%;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 7px;
+}
+.aMDiv,
+.sINDiv {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.aMDiv {
+  height: 48.08%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 51.92%;
+  letter-spacing: 0.32px;
+  font-weight: 500;
+}
+.sINDiv {
+  height: 36.54%;
+  width: 79.51%;
+  top: 63.46%;
+  right: 20.49%;
+  bottom: 0;
+  font-size: 16px;
+  letter-spacing: 0.26px;
+  color: #646468;
+}
+.groupDiv {
+  position: relative;
+  width: 93px;
+  height: 52px;
+  flex-shrink: 0;
+}
+.groupIcon {
+  position: absolute;
+  height: 27.46%;
+  width: 88.52%;
+  top: 0;
+  right: 5.5%;
+  bottom: 72.54%;
+  left: 5.98%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.h55MNonStop {
+  position: absolute;
+  height: 34.55%;
+  width: 100%;
+  top: 65.45%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  letter-spacing: 0.21px;
+  display: inline-block;
+}
+.groupDiv1 {
+  position: relative;
+  width: 121px;
+  height: 55px;
+  flex-shrink: 0;
+  text-align: center;
+  font-size: 16px;
+  color: #8e8e94;
+}
+.lAXDiv,
+.pMDiv {
+  position: absolute;
+  display: inline-block;
+}
+.pMDiv {
+  height: 48.47%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 51.53%;
+  left: 0;
+  letter-spacing: 0.32px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.lAXDiv {
+  height: 36.84%;
+  width: 37.04%;
+  top: 63.16%;
+  right: 2.58%;
+  bottom: 0;
+  left: 60.38%;
+  font-size: 16px;
+  letter-spacing: 0.26px;
+  color: #646468;
+}
+.groupDiv2 {
+  position: relative;
+  width: 90px;
+  height: 51.57px;
+  flex-shrink: 0;
+  text-align: right;
+}
+.frameDiv16 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 64%;
+  font-size: 21px;
+  color: #1262af;
+}
+.vectorIcon2 {
+  position: relative;
+  width: 1px;
+  height: 100px;
+  flex-shrink: 0;
+}
+.s730B {
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.34px;
+  display: inline-block;
+}
+.flightCardDiv,
+.frameDiv17 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.frameDiv17 {
+  width: 128px;
+  flex-shrink: 0;
+  text-align: center;
+  font-size: 24px;
+  color: #fba403;
+}
+.flightCardDiv {
+  align-self: stretch;
+  border-radius: 6px;
+  background-color: #fff;
+  border: 0.7px solid #cecece;
+  box-sizing: border-box;
+  position: relative;
+  padding: 0 25px;
+  gap: 50px;
+}
+.sINDiv1 {
+  position: absolute;
+  height: 36.54%;
+  width: 91.28%;
+  top: 63.46%;
+  right: 8.72%;
+  bottom: 0;
+  left: 0;
+  font-size: 16px;
+  letter-spacing: 0.26px;
+  color: #646468;
+  display: inline-block;
+}
+.groupDiv3 {
+  position: relative;
+  width: 81px;
+  height: 52px;
+  flex-shrink: 0;
+}
+.groupIcon1 {
+  position: absolute;
+  height: 27.46%;
+  width: 75.84%;
+  top: 0;
+  right: 11.93%;
+  bottom: 72.54%;
+  left: 12.22%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.groupDiv4,
+.groupDiv5 {
+  position: relative;
+  flex-shrink: 0;
+}
+.groupDiv4 {
+  width: 148.79px;
+  height: 55px;
+  text-align: center;
+  font-size: 16px;
+  color: #8e8e94;
+}
+.groupDiv5 {
+  width: 90px;
+  height: 51.57px;
+  text-align: right;
+}
+.frameDiv19 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 64%;
+  font-size: 21px;
+  color: #1262af;
+}
+.s730B1 {
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.34px;
+  display: inline-block;
+}
+.flightCardDiv1 {
+  align-self: stretch;
+  border-radius: 6px;
+  background-color: #fff;
+  border: 0.7px solid #cecece;
+  box-sizing: border-box;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 0 25px;
+  align-items: center;
+  justify-content: center;
+  gap: 50px;
+}
+.japanIcon {
+  position: relative;
+  width: 34.77px;
+  height: 46px;
+  flex-shrink: 0;
+  transform: scale(0.8);
+}
+.groupIcon2 {
+  position: absolute;
+  height: 27.46%;
+  width: 75.55%;
+  top: 0;
+  right: 12.23%;
+  bottom: 72.54%;
+  left: 12.22%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.groupDiv7 {
+  position: relative;
+  width: 156.44px;
+  height: 55px;
+  flex-shrink: 0;
+  text-align: center;
+  font-size: 16px;
+  color: #8e8e94;
+}
+.americanAirlinesIcon {
+  position: relative;
+  width: 34.77px;
+  height: 46px;
+  flex-shrink: 0;
+}
+.rectangleDiv6 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 6px;
+  background-color: #1262af;
+}
+.searchFlightsDiv {
+  position: absolute;
+  top: calc(50% - 10.5px);
+  left: calc(50% - 81.5px);
+  letter-spacing: 0.04em;
+  font-weight: 500;
+  display: inline-block;
+}
+.primaryButtonDiv {
+  position: relative;
+  width: 220px;
+  height: 72px;
+  flex-shrink: 0;
+  text-align: center;
+  font-size: 18px;
+  color: #fff;
+}
+.flightCardsDiv,
+.searchResultsDiv {
+  display: flex;
+  align-items: flex-start;
+}
+.flightCardsDiv {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 9px;
+  font-size: 16px;
+}
+.searchResultsDiv {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 50px 80px;
+  box-sizing: border-box;
+  justify-content: center;
+  gap: 39px;
+  font-size: 17px;
+  color: #57575d;
+}
+.rectangleIcon {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  height: 530px;
+  object-fit: cover;
+}
+.formTitleB,
+.formTitleSubtext {
+  align-self: stretch;
+  position: relative;
+  display: inline-block;
+}
+.formTitleSubtext {
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+.formTitleB {
+  font-size: 30px;
+  color: #434343;
+}
+.formHeaderDiv {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 7px;
+}
+.fillInYourDetailsToJoinT {
+  align-self: stretch;
+  position: relative;
+  line-height: 34px;
+  display: inline-block;
+}
+.formTextDiv {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.inputTextField {
+  border: 0;
+  background-color: transparent;
+  align-self: stretch;
+}
+.formFieldsDiv {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.buttonDiv1 {
+  position: relative;
+  font-size: 15px;
+  letter-spacing: 0.46px;
+  line-height: 26px;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-family: Roboto;
+  color: #fff;
+  text-align: left;
+  display: inline-block;
+}
+.button1,
+.unstyledButtonDiv {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+.unstyledButtonDiv {
+  padding: 8px 22px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.button1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #f99a0e;
+  border-radius: 4px;
+  width: 164px;
+  height: 56px;
+  flex-shrink: 0;
+  align-items: center;
+  justify-content: center;
+}
+.button1:hover {
+  background-color: #99600a;
+}
+.formDiv,
+.shareYourTravelsForm {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  justify-content: flex-start;
+}
+.formDiv {
+  align-self: stretch;
+  border-radius: 12px;
+  background-color: #fff;
+  box-shadow: 0 0 24px rgba(0, 0, 0, 0.03);
+  border: 1px solid #eaeaea;
+  position: relative;
+  padding: 28px 30px;
+  align-items: flex-start;
+  gap: 17px;
+  text-align: left;
+  color: #576074;
+}
+.shareYourTravelsForm {
+  position: relative !important;
+  top: 52px;
+  left: auto !important;
+  width: 549px;
+  padding: 20px;
+  align-items: center;
+  gap: 30px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.frameDiv39,
+.logoIcon {
+  position: relative;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.frameDiv39 {
+  align-self: stretch;
+  background-color: #f3f7fb;
+  height: 529px;
+}
+.logoIcon {
+  width: 174px;
+  height: 33px;
+}
+.fickleFlightIsYourOneStop {
+  align-self: stretch;
+  position: relative;
+  line-height: 27px;
+  display: inline-block;
+}
+.socialIcons {
+  position: relative;
+  width: 130px;
+  height: 30px;
+  flex-shrink: 0;
+}
+.fickleFlightBioDiv {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 14px;
+  margin-bottom: 40px !important;
+}
+.lineDiv {
+  position: relative;
+  border-right: 1px solid rgba(255, 255, 255, 0.2);
+  box-sizing: border-box;
+  width: 1px;
+  height: 157.87px;
+  flex-shrink: 0;
+}
+.aboutUs,
+.companyDiv1 {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.aboutUs {
+  text-decoration: none;
+  top: 47.76px;
+  color: inherit;
+  width: 135.67px;
+}
+.companyDiv1 {
+  top: 0;
+  font-size: 20px;
+  line-height: 27px;
+  font-weight: 500;
+  width: 174.72px;
+}
+.careersDiv,
+.howWeWork,
+.newsDiv {
+  position: absolute;
+  top: 78.76px;
+  left: 0;
+  display: inline-block;
+  width: 84.28px;
+}
+.careersDiv,
+.howWeWork {
+  top: 109.76px;
+  width: 115.11px;
+}
+.howWeWork {
+  top: 140.76px;
+  width: 197.33px;
+}
+.companyDiv {
+  position: relative;
+  width: 197.33px;
+  height: 159.76px;
+  flex-shrink: 0;
+}
+.accountDiv,
+.supportDiv1 {
+  position: absolute;
+  top: 47.76px;
+  left: 0;
+  display: inline-block;
+  width: 109.63px;
+}
+.supportDiv1 {
+  top: 0;
+  font-size: 20px;
+  line-height: 27px;
+  font-weight: 500;
+  width: 131.56px;
+}
+.accessibilityDiv,
+.fAQDiv,
+.supportCenterDiv {
+  position: absolute;
+  top: 78.76px;
+  left: 0;
+  display: inline-block;
+  width: 197.33px;
+}
+.accessibilityDiv,
+.fAQDiv {
+  top: 109.76px;
+  width: 52.99px;
+}
+.accessibilityDiv {
+  top: 140.76px;
+  width: 164.44px;
+}
+.covidAdvisoryDiv {
+  top: 47.76px;
+  width: 172.87px;
+}
+.airlineFeesDiv,
+.covidAdvisoryDiv,
+.moreDiv1,
+.tipsDiv {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.moreDiv1 {
+  top: 0;
+  font-size: 20px;
+  line-height: 27px;
+  font-weight: 500;
+  width: 76.65px;
+}
+.airlineFeesDiv,
+.tipsDiv {
+  top: 78.76px;
+  width: 135.36px;
+}
+.tipsDiv {
+  top: 109.76px;
+  width: 50.56px;
+}
+.moreDiv {
+  position: relative;
+  width: 197.33px;
+  height: 159.76px;
+  flex-shrink: 0;
+}
+.footerLinksDiv {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  font-size: 16px;
+}
+.footer,
+.footerSectionDiv,
+.resultsPageDiv {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.footer {
+  align-self: stretch;
+  background: linear-gradient(91.74deg, #0b5ba8 25.38%, #299bd8);
+  flex-direction: row;
+  padding: 33px 84px;
+  box-sizing: border-box;
+  gap: 44px;
+  text-align: left;
+  font-size: 18px;
+  color: #fff;
+  font-family: Roboto;
+}
+.footerSectionDiv,
+.resultsPageDiv {
+  flex-direction: column;
+}
+.footerSectionDiv {
+  align-self: stretch;
+  text-align: center;
+  font-size: 18px;
+  color: #1262ae;
+}
+.resultsPageDiv {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  overflow: hidden;
+  text-align: left;
+  font-size: 61px;
+  color: #fff;
+  font-family: Roboto;
+}
+@media screen and (max-width: 1199px) {
+  .topHeader {
+    padding-left: 40px;
+    padding-right: 40px;
+    box-sizing: border-box;
+  }
+  .searchFiltersDiv {
+    display: none;
+  }
+  .flightCardsDiv {
+    margin-left: 0;
+  }
+  .footer,
+  .searchResultsDiv {
+    padding: 40px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 767px) {
+  .frameDiv1 {
+    display: none;
+  }
+  .hamburgerMenuIcon {
+    display: flex;
+  }
+  .topHeader {
+    padding-left: 24px;
+    padding-right: 24px;
+    box-sizing: border-box;
+  }
+  .whereAreYouOffToo {
+    font-size: 42px;
+    line-height: 48px;
+  }
+  .frameDiv10 {
+    width: 100%;
+    flex: unset;
+    align-self: stretch;
+  }
+  .button {
+    margin-right: auto;
+  }
+  .frameDiv14 {
+    width: 100%;
+    text-align: left;
+  }
+  .frameDiv6,
+  .frameDiv9 {
+    flex-direction: column;
+  }
+  .frameDiv4 {
+    padding-left: 30px;
+    padding-right: 30px;
+    box-sizing: border-box;
+    width: 100%;
+    top: calc(44% - 96.5px - 0px);
+  }
+  .frameDiv15 {
+    flex-direction: column;
+  }
+  .frameDiv16,
+  .frameDiv19 {
+    flex-direction: row;
+  }
+  .searchResultsDiv {
+    padding: 20px 24px;
+    box-sizing: border-box;
+  }
+  .shareYourTravelsForm {
+    padding: 24px 0;
+    box-sizing: border-box;
+  }
+  .fickleFlightBioDiv {
+    flex: unset;
+    align-self: stretch;
+  }
+  .lineDiv {
+    display: none;
+  }
+  .footerLinksDiv {
+    flex: unset;
+    align-self: stretch;
+  }
+  .footer {
+    flex-direction: column;
+    padding: 40px 24px 30px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 427px) {
+  .frameDiv {
+    display: flex;
+  }
+  .whereAreYouOffToo {
+    font-size: 31px;
+    line-height: 40px;
+  }
+  .searchFlightsB {
+    width: 100%;
+    padding-bottom: 10px;
+    margin-bottom: 6px;
+    border-bottom: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #eaeaea;
+    flex: unset;
+    align-self: stretch;
+  }
+  .flightTypeDiv {
+    width: 100% !important;
+  }
+  .frameDiv8 {
+    width: 100%;
+  }
+  .frameDiv7 {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .frameDiv11 {
+    width: 100%;
+    flex: unset;
+    align-self: stretch;
+  }
+  .frameDiv10 {
+    flex-direction: column;
+  }
+  .button {
+    width: 100% !important;
+  }
+  .frameDiv6 {
+    margin-top: 20px;
+  }
+  .frameDiv4 {
+    width: 100%;
+    top: calc(26% - 96.5px - 0px);
+  }
+  .frameDiv3 {
+    height: 563px;
+  }
+  .turkishIcon {
+    transform: scale(0.8);
+  }
+  .frameDiv15 {
+    flex-direction: row;
+    width: 100% !important;
+    margin-right: 0 !important;
+  }
+  .groupDiv1,
+  .groupDiv2 {
+    transform: scale(0.8);
+  }
+  .frameDiv16 {
+    flex-direction: row;
+    padding: 0;
+    box-sizing: border-box;
+    flex: unset;
+    align-self: stretch;
+  }
+  .vectorIcon2 {
+    display: none;
+  }
+  .flightCardDiv {
+    flex-direction: column;
+    padding: 15px px;
+    box-sizing: border-box;
+    gap: 20px;
+  }
+  .groupDiv4 {
+    transform: scale(0.8);
+  }
+  .frameDiv19 {
+    flex-direction: row;
+    padding: 0;
+    box-sizing: border-box;
+    flex: unset;
+    align-self: stretch;
+  }
+  .flightCardDiv1 {
+    flex-direction: column;
+    padding: 15px px;
+    box-sizing: border-box;
+    gap: 20px;
+  }
+  .groupDiv7 {
+    transform: scale(0.8);
+  }
+  .button1 {
+    width: 100%;
+  }
+  .button1:hover {
+    background-color: #f99a0e;
+  }
+  .shareYourTravelsForm {
+    padding-left: 24px;
+    padding-right: 24px;
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative !important;
+    left: auto !important;
+    width: 100%;
+  }
+  .companyDiv {
+    margin-bottom: 40px !important;
+  }
+  .footerLinksDiv {
+    flex-direction: column;
+  }
+  .footer {
+    padding: 30px 24px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 350px) {
+  .frameDiv16 {
+    width: 100%;
+  }
+}
+@media screen and (max-width: 310px) {
+  .frameDiv15,
+  .frameDiv16 {
+    width: 100%;
+    margin-right: 0;
+  }
+  .frameDiv15 {
+    flex-direction: row;
+    padding-bottom: 10px;
+    box-sizing: border-box;
+    border-bottom: 1px solid #eaeaea;
+    margin-bottom: 16px;
+  }
+  .frameDiv16 {
+    flex: unset;
+    align-self: stretch;
+  }
+  .vectorIcon2 {
+    display: none;
+  }
+  .flightCardDiv,
+  .frameDiv17 {
+    box-sizing: border-box;
+    width: 100%;
+  }
+  .frameDiv17 {
+    padding: 6px;
+    background-color: #f5f7f8;
+    margin-top: 16px;
+  }
+  .flightCardDiv {
+    display: flex;
+    flex-direction: column;
+    padding: 25px;
+  }
+  .frameDiv19 {
+    width: 100%;
+    margin-right: 0;
+    flex: unset;
+    align-self: stretch;
+  }
+  .s730B1 {
+    width: 100%;
+  }
+  .flightCardDiv1 {
+    flex-direction: column;
+    padding: 25px;
+    box-sizing: border-box;
+  }
+  .flightCardsDiv {
+    width: 100%;
+  }
+}
