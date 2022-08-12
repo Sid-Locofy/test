@@ -522,7 +522,7 @@ export const ResultsPage: FunctionComponent = () => {
             <img
               className={styles.rectangleIcon}
               alt=""
-              src="rectangle-1861@2x.png"
+              src="rectangle-1862@2x.png"
             />
             <div className={styles.shareYourTravelsForm}>
               <div className={styles.formHeaderDiv}>
@@ -571,7 +571,7 @@ export const ResultsPage: FunctionComponent = () => {
           </div>
           <footer className={styles.footer}>
             <div className={styles.fickleFlightBioDiv}>
-              <img className={styles.logoIcon} alt="" src="logo1.svg" />
+              <img className={styles.logoIcon} alt="" src="logo2.svg" />
               <div className={styles.fickleFlightIsYourOneStop}>
                 Fickle Flight is your one-stop travel portal. We offer hassle
                 free flight and hotel bookings. We also have all your flight
@@ -580,7 +580,7 @@ export const ResultsPage: FunctionComponent = () => {
               <img
                 className={styles.socialIcons}
                 alt=""
-                src="social-icons1.svg"
+                src="social-icons2.svg"
               />
             </div>
             <div className={styles.lineDiv} />
