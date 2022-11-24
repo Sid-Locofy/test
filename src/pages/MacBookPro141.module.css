@@ -1,0 +1,128 @@
+@keyframes wobble-hor-bottom {
+  0%,
+  to {
+    transform: translateX(0);
+    transform-origin: 50% 50%;
+  }
+  15% {
+    transform: translateX(-30px) rotate(-6deg);
+  }
+  30% {
+    transform: translateX(15px) rotate(6deg);
+  }
+  45% {
+    transform: translateX(-15px) rotate(-3.6deg);
+  }
+  60% {
+    transform: translateX(9px) rotate(2.4deg);
+  }
+  75% {
+    transform: translateX(-6px) rotate(-1.2deg);
+  }
+}
+.rectangleButton,
+.rectangleTextField {
+  position: absolute;
+  top: 29px;
+  left: 25px;
+}
+.rectangleTextField {
+  left: 173px;
+}
+.rectangleFormControlLabel {
+  position: absolute;
+  top: 29px;
+  left: 321px;
+}
+.rectangleDiv,
+.rectangleDiv1 {
+  position: absolute;
+  top: 134px;
+  left: 469px;
+  background-color: var(--color-gray-100);
+  width: 115px;
+  height: 76px;
+}
+.rectangleDiv1 {
+  top: 0;
+  left: 0;
+}
+.groupDiv,
+.rectangleDiv2 {
+  position: absolute;
+  top: 29px;
+}
+.rectangleDiv2 {
+  left: 40px;
+  background-color: var(--color-gray-100);
+  width: 50px;
+  height: 34px;
+}
+.groupDiv {
+  left: 469px;
+  width: 115px;
+  height: 76px;
+}
+.rectangleDiv4,
+.rectangleDiv5 {
+  position: absolute;
+  top: 21px;
+  left: 33px;
+  background-color: var(--color-gray-100);
+  width: 50px;
+  height: 34px;
+}
+.rectangleDiv5 {
+  left: 181px;
+}
+.groupButton,
+.groupDiv1,
+.groupDiv2 {
+  position: absolute;
+  top: 134px;
+  height: 76px;
+}
+.groupDiv1 {
+  left: 321px;
+  width: 231px;
+}
+.groupButton,
+.groupDiv2 {
+  width: 115px;
+}
+.groupButton {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  left: 173px;
+}
+.groupButton:hover {
+  animation: 1s ease 0s infinite normal none wobble-hor-bottom;
+  opacity: 1;
+}
+.groupDiv2 {
+  left: 25px;
+}
+.buttonAntButton,
+.buttonPrimaryTextAntButton {
+  position: absolute;
+  top: 313px;
+  left: 107px;
+}
+.buttonAntButton {
+  top: 343px;
+  left: 299px;
+}
+.buttonAntButton1 {
+  position: absolute;
+  top: 497px;
+  left: 283px;
+}
+.macBookPro141 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 982px;
+  overflow: hidden;
+}
