@@ -1,0 +1,336 @@
+.blogsButton,
+.diveIntoSkills,
+.homeButton {
+  position: relative;
+  display: inline-block;
+}
+.blogsButton,
+.homeButton {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  flex: 1;
+  font-size: var(--font-size-base);
+  font-family: var(--font-roboto);
+  color: var(--color-yellow);
+  text-align: center;
+}
+.blogsButton {
+  color: var(--color-white);
+}
+.header,
+.menuSection {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.menuSection {
+  flex: 1;
+  gap: 25px;
+}
+.header {
+  align-self: stretch;
+  background: linear-gradient(90deg, #183114, #446129);
+  backdrop-filter: blur(20px);
+  padding: 41px 67px;
+  box-sizing: border-box;
+  gap: var(--gap-lg);
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-yellow);
+  font-family: var(--font-roboto);
+}
+.haveAQueryInMind,
+.youCanReachOutToMeViaEm {
+  align-self: stretch;
+  position: relative;
+  display: inline-block;
+}
+.youCanReachOutToMeViaEm {
+  font-size: var(--font-size-base);
+  text-align: left;
+}
+.detailsDiv {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 71px;
+}
+.etmapPinIcon {
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.muzaffargarhPunjabPakistan {
+  flex: 1;
+  position: relative;
+  display: inline-block;
+}
+.row1Div,
+.row2Div,
+.row3Div {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.row1Div {
+  align-self: stretch;
+  padding: 0 20px;
+  gap: 30px;
+  text-align: center;
+  font-size: 38px;
+}
+.row2Div,
+.row3Div {
+  gap: var(--gap-md);
+}
+.row2Div {
+  align-self: stretch;
+  padding: 0 10px;
+}
+.row3Div {
+  width: 668px;
+  height: 91px;
+  padding: 0 15px;
+}
+.frameDiv,
+.leftDiv {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frameDiv {
+  gap: 10px;
+  text-align: left;
+  font-size: var(--font-size-base);
+}
+.leftDiv {
+  flex: 1;
+  background-color: var(--color-gray-200);
+  padding: 45px var(--padding-lg);
+  box-sizing: border-box;
+  gap: var(--gap-lg);
+}
+.sendMeEmail {
+  align-self: stretch;
+  font-size: var(--font-size-2xl);
+}
+.detailsAboutQuery,
+.sendMeEmail {
+  position: relative;
+  display: inline-block;
+}
+.bTNDiv,
+.frameDiv1 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frameDiv1 {
+  align-self: stretch;
+  border-radius: var(--br-md);
+  border: 2px solid var(--color-yellow);
+  padding: 25px var(--padding-md);
+  text-align: left;
+  color: var(--color-yellow);
+}
+.bTNDiv {
+  border-radius: 15px;
+  background-color: var(--color-yellow);
+  padding: 24px var(--padding-lg);
+  font-size: var(--font-size-xl);
+  color: #000;
+}
+.socialIcon {
+  align-self: stretch;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rightDiv,
+.rowDiv {
+  display: flex;
+  justify-content: flex-start;
+}
+.rightDiv {
+  flex: 1;
+  background-color: #446129;
+  flex-direction: column;
+  padding: 4px 14px;
+  box-sizing: border-box;
+  align-items: center;
+  gap: 22px;
+  font-size: var(--font-size-base);
+}
+.rowDiv {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-end;
+  gap: var(--gap-0);
+}
+.diveIntoSkills1,
+.theLatestArticlesAndCourse {
+  align-self: stretch;
+  position: relative;
+  display: inline-block;
+}
+.diveIntoSkills1 {
+  font-weight: 900;
+}
+.theLatestArticlesAndCourse {
+  font-size: var(--font-size-xs);
+  color: var(--color-tan);
+}
+.detailsDiv1 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 27px;
+  text-align: justify;
+  font-size: 55px;
+  color: var(--color-yellow);
+}
+.homeDiv {
+  align-self: stretch;
+  position: relative;
+  display: inline-block;
+}
+.menu1Div {
+  flex: 1;
+  flex-direction: column;
+  gap: 17px;
+}
+.menu1Div,
+.menu2Div,
+.rowDiv1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.menu2Div {
+  flex: 1;
+  flex-direction: column;
+  gap: 14px;
+}
+.rowDiv1 {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 80px;
+}
+.cOPYRIGHT2022DiveIntoSki {
+  position: relative;
+  display: inline-block;
+}
+.copyrightDiv {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 100px;
+  text-align: left;
+  font-size: var(--font-size-base);
+}
+.contactDiv,
+.footer {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  text-align: center;
+  color: var(--color-tan);
+  font-family: var(--font-roboto);
+}
+.footer {
+  align-self: stretch;
+  background-color: var(--color-gray-200);
+  padding: 52px 77px;
+  align-items: center;
+  justify-content: center;
+  gap: 72px;
+  font-size: var(--font-size-xl);
+}
+.contactDiv {
+  position: relative;
+  border-radius: 16px;
+  background-color: #f3f4d3;
+  width: 100%;
+  padding: 2px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-0);
+  font-size: var(--font-size-2xl);
+}
+@media screen and (max-width: 1200px) {
+  .blogsButton,
+  .homeButton {
+    font-size: var(--font-size-xs);
+  }
+  .menuSection {
+    flex-direction: row;
+  }
+  .diveIntoSkills1 {
+    font-size: var(--font-size-lg);
+  }
+  .theLatestArticlesAndCourse {
+    font-size: var(--font-size-2xs);
+  }
+  .homeDiv {
+    font-size: var(--font-size-lg);
+  }
+}
+@media screen and (max-width: 768px) {
+  .blogsButton,
+  .homeButton {
+    font-size: var(--font-size-2xs);
+  }
+  .menuSection {
+    flex: unset;
+    align-self: stretch;
+  }
+  .header {
+    flex-direction: column;
+  }
+  .diveIntoSkills1 {
+    font-size: var(--font-size-sm);
+  }
+  .theLatestArticlesAndCourse {
+    font-size: 22px;
+  }
+  .homeDiv {
+    font-size: var(--font-size-sm);
+  }
+  .cOPYRIGHT2022DiveIntoSki {
+    font-size: var(--font-size-2xs);
+  }
+}
+@media screen and (max-width: 428px) {
+  .diveIntoSkills {
+    font-size: var(--font-size-sm);
+  }
+  .blogsButton,
+  .homeButton {
+    font-size: var(--font-size-3xs);
+  }
+  .homeDiv {
+    font-size: var(--font-size-2xs);
+  }
+  .contactDiv,
+  .contactDiv:hover {
+    flex-direction: column;
+  }
+  .contactDiv:hover {
+    cursor: default;
+  }
+}
